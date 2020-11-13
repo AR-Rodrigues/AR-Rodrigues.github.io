@@ -1,2 +1,2 @@
 # resume
-https://ar-rodrigues.github.io/resume/.
+http://ar-rodrigues.github.io/
