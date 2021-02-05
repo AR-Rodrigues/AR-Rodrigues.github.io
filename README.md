@@ -1,2 +1,2 @@
 # resume
-http://ar-rodrigues.github.io/
+https://ar-rodrigues.github.io/resume-html-css/
